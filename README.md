@@ -2,4 +2,4 @@
 
 How to Config Code Style
 
-![Screenshot](assets/Image 2019-02-28 at 10.33.48 AM.png)
+![Screenshot](https://github.com/xupea/android_dev/blob/master/assets/Image%202019-02-28%20at%2010.33.48%20AM.png?raw=true)
