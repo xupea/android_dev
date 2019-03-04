@@ -18,7 +18,7 @@
 
 4. 刷新自己的代码库页面，通过create merge request可以快速提交pull request 或者 merge request
 
-![Screenshot](https://github.com/xupea/android_dev/blob/master/assets/Screen%20Shot%202019-03-04%20at%2011.50.40%20AM.png?raw=true）
+![Screenshot](https://github.com/xupea/android_dev/blob/master/assets/Screen%20Shot%202019-03-04%20at%2011.50.40%20AM.png?raw=true)
 
 5. @其他人 来review你的代码
 
